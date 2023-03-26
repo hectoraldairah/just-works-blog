@@ -1,0 +1,26 @@
+{
+  "name": "just-works-blog",
+  "version": "1.0.0",
+  "description": "11ty minimal starter for impatient devz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "11ty",
+    "minimal",
+    "starter"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.0",
+    "eslint": "^8.36.0",
+    "eslint-config-prettier": "^8.8.0",
+    "postcss": "^8.4.21",
+    "prettier": "2.8.7"
+  },
+  "dependencies": {
+    "open-props": "^1.5.6"
+  }
+}
